@@ -1,6 +1,9 @@
 # Custom USB-C to MicroSD Dongle!
 This is a custom USB Type C to MicroSD adapter capable of high-speed data transfer.
 
+# Why I Made it :)
+I've been struggling to find a USB-C to MicroSD for a Bambu Labs A1 at my school, and so I haven't been able to print on it. I found that it could be a cool project on PCB design, and a way to support my school's 3D-printing program!
+
 # Parts
 It uses a 105444 Molex USB-C plug and a 104031-0811 Molex MicroSD receptacle, connected by a GLK823 chip, with an onboard LED to show if data is transferring.
 
